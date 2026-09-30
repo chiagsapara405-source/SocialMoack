@@ -1,0 +1,6 @@
+{
+  "name": "SocialMock AI",
+  "description": "Turn one event into an entire social media campaign with realistic platform mockups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
